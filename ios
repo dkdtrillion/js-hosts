@@ -1,1 +1,24 @@
-{"code":1,"message":"SUCCESS","data":[{"id":5,"domain":"https://dev2.skymx.bet","webDomain":"https://dev2.skymx.bet","status":1,"domainType":null,"speed":"0.029","createTime":"2021-04-13T17:41:14.000+0800"},{"id":1,"domain":"https://dev.skymx.bet","webDomain":"https://dev.skymx.bet","status":1,"domainType":null,"speed":"0.042","createTime":null}]}
+{
+  "code": 1,
+  "message": "SUCCESS",
+  "data": [
+    {
+      "id": 1,
+      "domain": "https://dev.skymx.bet",
+      "webDomain": "https://dev.skymx.bet",
+      "status": 1,
+      "domainType": null,
+      "speed": "0.049",
+      "createTime": null
+    },
+    {
+      "id": 5,
+      "domain": "https://dev2.skymx.bet",
+      "webDomain": "https://dev2.skymx.bet",
+      "status": 1,
+      "domainType": null,
+      "speed": "0.016",
+      "createTime": null
+    }
+  ]
+}

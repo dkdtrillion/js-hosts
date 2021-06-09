@@ -4,21 +4,19 @@
   "data": [
     {
       "id": 1,
-      "domain": "https://dev.skymx.bet",
+      "domain": "https://dev111.skymx.bet",
       "webDomain": "https://dev.skymx.bet",
       "status": 1,
       "domainType": null,
       "speed": "0.049",
-      "createTime": null
     },
     {
       "id": 5,
-      "domain": "https://dev2.skymx.bet",
-      "webDomain": "https://dev2.skymx.bet",
+      "domain": "https://dev.skymx.bet",
+      "webDomain": "https://dev.skymx.bet",
       "status": 1,
       "domainType": null,
       "speed": "0.016",
-      "createTime": null
     }
   ]
 }
